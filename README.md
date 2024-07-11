@@ -41,9 +41,13 @@
 1. urls文件：配置文件
 
 
-页面
+框架
 
 ![image](https://github.com/yanxiyue-cloud/djiango-pyecharts/assets/124120970/ecfc7a9d-e8d2-4f98-a3bd-ca93a29760bb)
+
+前端页面
+
+![image](https://github.com/yanxiyue-cloud/djiango-pyecharts/assets/124120970/7364b9d6-e601-4850-b1e1-0f165e3e884c)
 
 
 
